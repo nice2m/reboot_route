@@ -17,4 +17,4 @@
 [PyInstaller python打包分发工具](https://github.com/pyinstaller/pyinstaller)
 
 
-ps：万能的百度啊
+ps：万能的百度
